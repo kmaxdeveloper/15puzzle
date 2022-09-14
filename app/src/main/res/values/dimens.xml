@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_size">250dp</dimen>
+
+    <!-- About Layout Style -->
+    <dimen name="aboutButtonBackImageSize">60dp</dimen>
+    <dimen name="aboutMarginTop">10dp</dimen>
+    <dimen name="aboutMarginStart">10dp</dimen>
+    <dimen name="aboutMarginEnd">10dp</dimen>
+    <dimen name="aboutMarginBottom">10dp</dimen>
+    <!-- About Layout Style -->
+
+    <!-- MainActivity Button Layout Style-->
+    <dimen name="mainButtonsWidth">210dp</dimen>
+    <dimen name="mainButtonsHeight">70dp</dimen>
+    <dimen name="mainButtonsMarginTop">10dp</dimen>
+    <dimen name="mainButtonsMarginBottom">10dp</dimen>
+    <!-- MainActivity Button Layout Style-->
+</resources>
